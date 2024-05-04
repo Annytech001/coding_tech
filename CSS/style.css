@@ -1,0 +1,54 @@
+body{
+margin: 0;
+padding: 0;
+background-image: url("divers.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+span{
+    display: flex;
+    padding: 15px 0 0 0;
+}
+
+.ul-lists{
+    display:flex;
+}
+
+.ul-lists li{
+    list-style: none;
+    padding: 0 10px;
+}
+.ul-lists a{
+    text-decoration: none;
+    color:white;
+}
+
+.image{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    /* margin: 15px 0 0 0; */
+}
+
+.title{
+    color: white;
+}
+
+.desc{
+    text-align: center;
+    font-size: 50px;
+    color:lightgrey;
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    background-color: lightblue;
+    color: white;
+    margin: 0 0 0 480px
+}

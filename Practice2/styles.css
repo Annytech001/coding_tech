@@ -1,0 +1,107 @@
+body{
+    margin:0;
+    background-color:black;
+    background-repeat: no-repeat;
+    padding: 50px 450px;
+    color: white;
+    font-family: "Glory", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: semibold;
+}
+
+.contain{
+    width: 300px;
+    height: 600px;
+    background-color: rgba(26, 25, 25, 0.959);
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0, 0.125);
+    border-radius:10px;
+    margin: 0 60px;
+}
+
+img{
+    height: 80px;
+    width:80px;
+    margin: 20px 100px;
+    display: flex;
+    border-radius: 50%;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin: 0 50px;
+}
+h5{
+    color:rgb(196, 240, 37);
+    text-align: center;
+    font-size:12px;
+    font-weight: 500;
+    margin: 0 50px;
+    padding-bottom: 10px;
+}
+h6{
+    color: white;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 300;
+    margin: 0 50px;
+    
+} 
+.btn1{
+    background-color: rgba(88, 88, 88, 0.24);
+    color: whitesmoke;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    margin: 20px 50px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.btn2{
+    background-color: rgba(88, 88, 88, 0.24);
+    color:whitesmoke;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    margin: 20px 50px;
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.btn3{
+    background-color: rgba(88, 88, 88, 0.24);
+    color:whitesmoke;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    margin: 20px 50px; 
+    font-family: "Roboto", sans-serif;
+}
+.btn4{
+    background-color: rgba(88, 88, 88, 0.24);
+    color:whitesmoke;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    margin: 20px 50px;
+    font-family: "Roboto", sans-serif;
+}
+.btn5{
+    background-color: rgba(88, 88, 88, 0.24);
+    color:whitesmoke;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 200px;
+    margin: 20px 50px;
+    font-family: "Roboto", sans-serif;
+}
