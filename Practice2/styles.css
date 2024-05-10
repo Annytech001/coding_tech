@@ -12,7 +12,7 @@ body{
 
 .contain{
     width: 300px;
-    height: 600px;
+    height: 650px;
     background-color: rgba(26, 25, 25, 0.959);
     background-clip: border-box;
     border: 1px solid rgba(0,0,0, 0.125);
@@ -104,4 +104,26 @@ h6{
     width: 200px;
     margin: 20px 50px;
     font-family: "Roboto", sans-serif;
+}
+.btn1 a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn2 a{
+    text-decoration: none;
+    color: white;
+}
+.btn3 a{
+    text-decoration: none;
+    color: white;
+}
+.btn4 a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn5 a{
+    text-decoration: none;
+    color: white;
 }
