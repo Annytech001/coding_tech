@@ -88,6 +88,7 @@ console.log (person.married);
 
 console.log(person.profession.company);
 console.log(person.profession.startDate);
+console.log(person.profession.job);
 
 
 
