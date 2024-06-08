@@ -72,7 +72,8 @@ var y = "World"
 console.log(x + y)
 */
 
-function greet ()
+//function greet ()
+/*
 {
     console.log ("Annycodes");
 }
@@ -81,3 +82,9 @@ console.log ("1")
 greet();
 greet();
 greet();
+*/
+
+a = 5;
+b = 10;
+c = a + b;
+alert(c);
