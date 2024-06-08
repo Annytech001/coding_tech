@@ -72,7 +72,7 @@ const person = {
        // married: true,
         //certificate: null,
         //christain: false,
-        profession: {
+       /* profession: {
                 job: 'software Engineer',
                 company: 'Apple',
                 startDate: '20-8-2018',
@@ -89,6 +89,6 @@ console.log (person.married);
 console.log(person.profession.company);
 console.log(person.profession.startDate);
 console.log(person.profession.job);
+*/
 
-
-
+}
