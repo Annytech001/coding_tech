@@ -84,7 +84,50 @@ greet();
 greet();
 */
 
-a = 5;
-b = 10;
-c = a + b;
-alert(c);
+/*function checkIfNumber( x ){
+    if ( typeof x === 'number' ){
+        console.log( x + ' is a number.' ); 
+    }
+}
+*/
+/*
+var numbers = [19, 65, 1, 2, 6, 1, 9, 9, 2, 1]; 
+
+var sum = 0;
+var i = 0;
+while ( i < numbers.length ) {
+    sum += numbers[i];
+    i += 1;
+}
+console.log( 'The loop was executed ' + i + ' times' );
+
+console.log(sum);
+*/
+/*
+var i = 0;
+while (i < 5) loop {
+  console.log(i)
+}
+i++
+*/
+/*
+var gimli = {
+    name: "Gimli",
+    race: "dwarf",
+    weapon: "axe",
+    greet: function() {
+        return `Hi, my name is ${this.name}!`;
+    },
+};
+
+console.log(gimli.greet());
+*/
+
+let name = "Glory"
+let surname = "Bassey"
+let age = 28;
+let occupation = "software Engineering"
+
+//console.log( name + " " + surname + " " + occupation)
+
+console.log('my name is ${name} and i am a ${occupation}')
