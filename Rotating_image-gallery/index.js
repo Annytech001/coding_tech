@@ -18,3 +18,4 @@ prevE1.addEventListener("click", () => {
     clearTimeout(timer);
     updateGallery();
 });
+
