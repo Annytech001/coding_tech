@@ -34,7 +34,9 @@ body {
 .btn-container{
     position:relative;
     width:80%;
+    margin: 100px 0 0 0 !important;
 }
+
 .btn{
     position: absolute;
     bottom: 80px;
@@ -50,8 +52,8 @@ body {
     filter:brightness(1.5);
 }
 #prev{
-    left:20%;
+    left:5%;
 }
 #next{
-    right:20%;
+    right:5%;
 }
