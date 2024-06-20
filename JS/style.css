@@ -1,0 +1,30 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+  
+  .like-button {
+    color: grey;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .like-button.liked {
+    color: red;
+  }
+  
